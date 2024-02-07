@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/milbmr/url-shortner"
+	"github.com/milbmr/url-shortner/handler"
 )
 
 func main() {
